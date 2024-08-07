@@ -7,3 +7,4 @@ package.json
 Gruntfile.js
 .DS_Store
 testFile/
+.idea
